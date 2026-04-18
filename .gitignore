@@ -1,0 +1,27 @@
+# Data
+data/raw/
+data/* 
+!data/processed/
+!data/processed/clean/
+
+# Output
+output/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+notebooks/trac_nghiem.ipynb
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
