@@ -1,15 +1,4 @@
-# Ignore raw data
-data/raw/
 
-# Ignore toàn bộ file trong data
-data/*
-
-# Nhưng vẫn giữ lại folder processed
-!data/processed/
-!data/processed/**
-
-# Output
-output/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
