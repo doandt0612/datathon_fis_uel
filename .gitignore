@@ -1,0 +1,24 @@
+data/processed/pre_processed/*
+!data/processed/pre_processed/.gitkeep
+
+data/processed/master/*
+!data/processed/master/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
