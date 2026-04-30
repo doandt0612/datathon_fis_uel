@@ -4,9 +4,11 @@ data/processed/pre_processed/*
 data/processed/master/*
 !data/processed/master/.gitkeep
 
+
 # Notebook checkpoints
 .ipynb_checkpoints/
 
+venv/
 
 # Python
 __pycache__/

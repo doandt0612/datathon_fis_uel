@@ -1,0 +1,34 @@
+{
+    "revenue": {
+        "alpha": 4.651206740228129,
+        "learning_rate": 0.012649306946952866,
+        "num_leaves": 106,
+        "min_data_in_leaf": 20,
+        "feature_fraction": 0.8929877808289013,
+        "bagging_fraction": 0.5619370678959162,
+        "bagging_freq": 5,
+        "lambda_l1": 0.007752054307376534,
+        "lambda_l2": 0.0018092487996633718,
+        "objective": "huber",
+        "metric": "mae",
+        "verbosity": -1,
+        "seed": 42,
+        "deterministic": true
+    },
+    "cogs": {
+        "alpha": 2.3009412440319457,
+        "learning_rate": 0.021875064185293114,
+        "num_leaves": 38,
+        "min_data_in_leaf": 69,
+        "feature_fraction": 0.6299847555842242,
+        "bagging_fraction": 0.9004638887993759,
+        "bagging_freq": 4,
+        "lambda_l1": 5.8681118009797636e-08,
+        "lambda_l2": 2.682568431688553e-08,
+        "objective": "huber",
+        "metric": "mae",
+        "verbosity": -1,
+        "seed": 42,
+        "deterministic": true
+    }
+}
