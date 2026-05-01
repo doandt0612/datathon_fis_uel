@@ -12,12 +12,13 @@ datathon_fis_uel/
 │   ├── 02_data_merging.ipynb
 │   ├── 03_eda.ipynb
 │   ├── 04_feature_engineering.ipynb
-│   ├── 05_modeling.ipynb
+│   ├── 05_model.ipynb
 │   ├── baseline.ipynb
 │   └── MCQs.ipynb
 │
 ├── output/
 │   ├── figures
+│   ├── params
 │   └── submission.csv
 │
 ├── .gitignore
